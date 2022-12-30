@@ -1,0 +1,5 @@
+Rank,Mark,WIND,Competitor,DOB,Nat,Pos,,Venue,Date,Results Score,
+1,9.58,+0.9,Usain BOLT,21 AUG 1986,JAM,1,,Olympiastadion, Berlin (GER),16 AUG 2009,1356,
+2,9.63,+1.5,Usain BOLT,21 AUG 1986,JAM,1,,Olympic Stadium, London (GBR),05 AUG 2012,1337,
+3,9.69,0.0,Usain BOLT,21 AUG 1986,JAM,1,,National Stadium, Beijing (CHN),16 AUG 2008,1316,
+3,9.69,+2.0,Tyson GAY,09 AUG 1982,USA,1,,Shanghai (CHN),20 SEP 2009,1316
